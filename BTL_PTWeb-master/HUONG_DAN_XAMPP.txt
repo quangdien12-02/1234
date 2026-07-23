@@ -1,0 +1,26 @@
+Huong dan chay project tren XAMPP
+
+1. Copy thu muc BTL_PTWeb-master vao:
+   C:\xampp\htdocs\
+
+2. Mo XAMPP Control Panel, bat Apache va MySQL.
+
+3. Mo trinh duyet vao:
+   http://localhost/phpmyadmin
+
+4. Chon tab Import, chon file db_ptweb.sql trong thu muc project, bam Go.
+
+5. Chay website:
+   http://localhost/BTL_PTWeb-master/
+
+6. Dang nhap tai khoan quan tri:
+   Ma sinh vien / ma quan tri: ADMIN
+   Ten dang nhap: admin
+   Mat khau: 123456
+
+Chuc nang da co:
+- Xem danh sach sinh vien
+- Tim kiem sinh vien
+- Them sinh vien
+- Sua thong tin sinh vien
+- Xoa sinh vien
